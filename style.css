@@ -1,0 +1,57 @@
+.logo{
+    width: 150px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-img-top{
+    width: 100%;
+}
+.phone1, .phone2, .phone3{
+    width:200px;
+}
+.container{
+    padding: 20px;
+}
+h3{
+    padding: 20px;
+}
+#categories{
+    text-align: center;
+}
+.single-img{
+    margin-top: 40px;
+    padding: 30px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 20px 0 20px 0;
+}
+footer p{
+    color:rgb(153, 125, 125);
+    padding: 5px;
+}
+.bg-img1{
+    background-image: url(images/header-bg.png);
+    background-position: no-repeat;
+    background-size: cover;
+}
+.bg-img2{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.button{
+    padding: 10px;
+    background-image: url(images/button-bg.png);
+    background-size: cover;
+    border-radius: 5px;
+}
+p{
+    line-height: 2;
+}
+.col-md-6 p{
+    padding: 15px 0 15px 0;
+}
+.card-deck p, .col-md-6 p{
+    color: #9C9C9C;
+}
